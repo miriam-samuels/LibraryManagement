@@ -1,3 +1,5 @@
+//created by Medo Miriam
+// on 1st april 2020
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
